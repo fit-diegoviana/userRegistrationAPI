@@ -1,6 +1,6 @@
 using System.Text.RegularExpressions;
 
-namespace ApiCadastro.Api.Util;
+namespace userRegistrationAPI.Api.Util;
 
 public class Formatter
 {

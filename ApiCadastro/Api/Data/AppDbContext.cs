@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
-using ApiCadastro.Api.Models;
+using userRegistrationAPI.Api.Models;
 
-namespace ApiCadastro.Api.Data
+namespace userRegistrationAPI.Api.Data
 {
     public class AppDbContext : DbContext
     {

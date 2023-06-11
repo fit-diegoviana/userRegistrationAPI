@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace ApiCadastro.Api.Models
+namespace userRegistrationAPI.Api.Models
 {
     public class User
     {

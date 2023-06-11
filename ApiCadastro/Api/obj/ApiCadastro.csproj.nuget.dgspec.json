@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Diego\\Desktop\\projetos\\apiCadastros\\ApiCadastro\\ApiCadastro.csproj": {}
+    "C:\\Users\\Diego\\Desktop\\projetos\\userRegistrationAPIs\\userRegistrationAPI\\userRegistrationAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Diego\\Desktop\\projetos\\apiCadastros\\ApiCadastro\\ApiCadastro.csproj": {
+    "C:\\Users\\Diego\\Desktop\\projetos\\userRegistrationAPIs\\userRegistrationAPI\\userRegistrationAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Diego\\Desktop\\projetos\\apiCadastros\\ApiCadastro\\ApiCadastro.csproj",
-        "projectName": "ApiCadastro",
-        "projectPath": "C:\\Users\\Diego\\Desktop\\projetos\\apiCadastros\\ApiCadastro\\ApiCadastro.csproj",
+        "projectUniqueName": "C:\\Users\\Diego\\Desktop\\projetos\\userRegistrationAPIs\\userRegistrationAPI\\userRegistrationAPI.csproj",
+        "projectName": "userRegistrationAPI",
+        "projectPath": "C:\\Users\\Diego\\Desktop\\projetos\\userRegistrationAPIs\\userRegistrationAPI\\userRegistrationAPI.csproj",
         "packagesPath": "C:\\Users\\Diego\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Diego\\Desktop\\projetos\\apiCadastros\\ApiCadastro\\obj\\",
+        "outputPath": "C:\\Users\\Diego\\Desktop\\projetos\\userRegistrationAPIs\\userRegistrationAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Diego\\AppData\\Roaming\\NuGet\\NuGet.Config"

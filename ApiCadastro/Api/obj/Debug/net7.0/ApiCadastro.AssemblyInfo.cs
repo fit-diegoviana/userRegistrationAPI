@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ApiCadastro")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("userRegistrationAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("ApiCadastro")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ApiCadastro")]
+[assembly: System.Reflection.AssemblyProductAttribute("userRegistrationAPI")]
+[assembly: System.Reflection.AssemblyTitleAttribute("userRegistrationAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

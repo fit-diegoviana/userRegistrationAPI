@@ -2,9 +2,9 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
-using ApiCadastro.Api.Data;
+using userRegistrationAPI.Api.Data;
 
-namespace ApiCadastro
+namespace userRegistrationAPI
 {
     public class Program
     {

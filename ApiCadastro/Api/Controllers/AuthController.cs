@@ -1,10 +1,10 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
-using ApiCadastro.Api.Data;
-using ApiCadastro.Api.Models;
-using ApiCadastro.Api.Mapping;
+using userRegistrationAPI.Api.Data;
+using userRegistrationAPI.Api.Models;
+using userRegistrationAPI.Api.Mapping;
 
-namespace ApiCadastro.Api.Controllers
+namespace userRegistrationAPI.Api.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]

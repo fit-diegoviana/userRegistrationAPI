@@ -1,7 +1,7 @@
-using ApiCadastro.Api.Models;
-using ApiCadastro.Api.Util;
+using userRegistrationAPI.Api.Models;
+using userRegistrationAPI.Api.Util;
 
-namespace ApiCadastro.Api.Mapping
+namespace userRegistrationAPI.Api.Mapping
 {
     public class AuthMapper
     {

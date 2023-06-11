@@ -4,11 +4,11 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using ApiCadastro.Api.Data;
+using userRegistrationAPI.Api.Data;
 using Swashbuckle.AspNetCore.SwaggerUI;
 using Microsoft.OpenApi.Models;
 
-namespace ApiCadastro
+namespace userRegistrationAPI
 {
     public class Startup
     {

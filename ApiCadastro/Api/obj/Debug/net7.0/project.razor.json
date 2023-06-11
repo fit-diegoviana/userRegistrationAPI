@@ -1,6 +1,6 @@
 {
-  "SerializedFilePath": "c:\\Users\\Diego\\Desktop\\projetos\\apiCadastros\\ApiCadastro\\obj\\Debug\\net7.0\\project.razor.json",
-  "FilePath": "c:\\Users\\Diego\\Desktop\\projetos\\apiCadastros\\ApiCadastro\\ApiCadastro.csproj",
+  "SerializedFilePath": "c:\\Users\\Diego\\Desktop\\projetos\\userRegistrationAPIs\\userRegistrationAPI\\obj\\Debug\\net7.0\\project.razor.json",
+  "FilePath": "c:\\Users\\Diego\\Desktop\\projetos\\userRegistrationAPIs\\userRegistrationAPI\\userRegistrationAPI.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "7.0",
@@ -18642,7 +18642,7 @@
     ],
     "CSharpLanguageVersion": 1100
   },
-  "RootNamespace": "ApiCadastro",
+  "RootNamespace": "userRegistrationAPI",
   "Documents": [],
   "SerializationFormat": "0.3"
 }
