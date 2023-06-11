@@ -1,0 +1,2 @@
+Criação api .net 7.0
+Cadastro e login de usuários a plataforma.
